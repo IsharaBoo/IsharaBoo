@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hi, I'm Ishara Ranasinghe I'm a Developer and UI/UX Designer who loves building clean, intuitive, and impactful digital experiences. I enjoy turning ideas into functional products—whether it's crafting smooth user interfaces, designing seamless user journeys, or developing scalable backend systems.
+👋 Hi, I'm Ishara Ranasinghe I'm a Developer and UI/UX Designer who loves building clean, intuitive, and impactful digital experiences. I enjoy turning ideas into functional products, whether it's crafting smooth user interfaces, designing seamless user journeys, or developing scalable backend systems.
 
 💻 Passionate about full-stack development
 
